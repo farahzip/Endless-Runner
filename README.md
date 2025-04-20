@@ -1,5 +1,6 @@
+# Endless Runner
 A simple lightweight 2D game where you control a character that runs endlessly while avoiding obstacles and collecting points. Created for learning, experimentation, and fun!
-##How to Run
+## How to Run
 
 1. Download or Clone the repository:
    ```bash
